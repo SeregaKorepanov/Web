@@ -1,0 +1,61 @@
+h1  {
+    color: red;
+}
+h2 {
+    color: orange
+}
+a {
+    text-decoration: none;
+}
+a: link{
+    color: yellow
+} 
+a:visited{
+    color: green;
+}
+a:hover {
+    color: black
+}
+body {
+    font-family: sans-serif;
+}
+img {
+    cursor: pointer;
+}
+.pic {
+    padding: 10px;
+    margin: 50px;
+    background: orange;
+    border: 5px solid black;
+    width: 400px;
+}
+body {
+    background: url(img/Fon.jpg) no-repeat;
+    background-size: 100%;
+
+}
+p {
+    color: coral;
+}
+ul {
+    color: yellow;
+}
+ol {
+    color: blue;
+}
+.pic2 {
+    width: 400px;
+}
+.carousel-inner {
+    background: orange;
+
+}
+.carousel-item {
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+     
+}
+.carousel-slide {
+    width: 300px;
+}
